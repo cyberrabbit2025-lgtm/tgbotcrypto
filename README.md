@@ -6,7 +6,8 @@
 
 Нажми кнопку ниже, чтобы развернуть бота на Railway:
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=https://github.com/cyberrabbit2025-lgtm/tgbotcrypto)
+[![Deploy on Railway](https://railway.com/button.svg)][![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/cyberrabbit2025-lgtm/tgbotcrypto)
+
 
 ## ⚙️ Переменные окружения
 
